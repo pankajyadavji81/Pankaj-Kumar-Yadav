@@ -37,7 +37,7 @@ body
 {
     display: inline-block;
     font-size: 25px;
-    color: #fff;
+    color: #F3F4F6;
     text-decoration: none;
     font-weight: 500;
     margin-left: 35px;
@@ -181,5 +181,6 @@ body
         opacity: 1;
     }
 }
+
 
 
